@@ -11,6 +11,3 @@ After you're done reviewing the basics:
 
 ## PyTorch
 Finally, dive into the world of Machine Learning using PyTorch. The [pytorch](pytorch) directory is basically the notebook version of **Patrick Loeber**'s [PyTorch Tutorial](https://github.com/patrickloeber/pytorchTutorial) series (most of it).
-
-### Contact
-Thanks and please feel free to provide your feedback to me at [zibran.zarif.amio@gmail.com](mailto:zibran.zarif.amio@gmail.com)
